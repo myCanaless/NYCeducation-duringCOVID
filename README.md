@@ -49,7 +49,7 @@ DOE Students in Temporarily Housing
 
 ![Students in Temporarily Housing](<docs/Percentage of DOE Temporarily Housed Students Over the Years.png>)
 
-Achievement Levels of English Language Arts (Citywide)
+Achievement Levels of English Language Arts Exam (Citywide)
 
 ![ELA Citywide](<docs/Percentage of Students by Achievement Levels Over Years (Citywide).png>)
 
