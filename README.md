@@ -85,8 +85,6 @@ Achievement Levels at 02M183:
 
 ![Achievement Levels at 02M183](<docs/Percentage of Students by Achievement Levels Over Years at DBN 02M183.png>)
 
-
-
 # Goal
 Analyze an NYC dataset of student data to analyze student performance. Some analytical questions/goals you may want to consider include:
 - How has test performance changed after Covid? Does this vary across demographics?
