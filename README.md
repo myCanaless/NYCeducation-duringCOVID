@@ -49,9 +49,13 @@ DOE Students in Temporarily Housing
 
 ![Students in Temporarily Housing](<docs/Percentage of DOE Temporarily Housed Students Over the Years.png>)
 
-Achievement Levels of English Language Arts (Citywide)
+English Language Arts Achievement Levels (Citywide)
 
 ![ELA Citywide](<docs/Percentage of Students by Achievement Levels Over Years (Citywide).png>)
+
+Math Achievement Levels (Citywide)
+
+![Math Citywide](<docs/CityWide Math Levels.png>)
 
 # School with Highest Economic Need Index - 12X211
 
@@ -68,7 +72,9 @@ Achievement Levels at 12X211:
 
 ![Achievement Levels at 12X211](<docs/Percentage of Students by Achievement Levels Over Years at 12X211.png>)
 
+## Math Results between 2013 - 2023
 
+![12X211 Math](<docs/12X211 Math.png>)
 
 # School with Lowest Economic Need  - 02M183
 
@@ -84,6 +90,10 @@ Enrollment:
 Achievement Levels at 02M183: 
 
 ![Achievement Levels at 02M183](<docs/Percentage of Students by Achievement Levels Over Years at DBN 02M183.png>)
+
+## Math Results between 2013 - 2023
+
+![02M183 Math](<docs/02M183 Math.png>)
 
 # Goal
 Analyze an NYC dataset of student data to analyze student performance. Some analytical questions/goals you may want to consider include:
