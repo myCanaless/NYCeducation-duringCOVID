@@ -43,6 +43,8 @@ The student Economic Need Index (ENI) is a metric calculated used by the Departm
 - Level 4 = Meeting Learning Standards with Distinction  
 - 'Pct Level 4' - Percentage of students who scored in Level 4 range
 
+# Issues / Notes
+Results from 2018 to 2022 can be compared to each other but cannot be compared to prior years  (or to 2023) due to a change intest adiministration. 
 
 # Analysis
 DOE Students in Temporarily Housing
@@ -94,6 +96,7 @@ Achievement Levels at 02M183:
 ## Math Results between 2013 - 2023
 
 ![02M183 Math](<docs/02M183 Math.png>)
+
 
 # Goal
 Analyze an NYC dataset of student data to analyze student performance. Some analytical questions/goals you may want to consider include:
