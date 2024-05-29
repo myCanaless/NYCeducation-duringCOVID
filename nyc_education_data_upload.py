@@ -3,7 +3,7 @@ import boto3
 # setting up the S3 client
 client = boto3.client('s3')
 bucket_name = "tkh-nyc-education"
-file_path = "data\Math_Test_Results_2013-2023_20240512.csv"
+file_path = "data/Math_Test_Results_2013-2023_20240512.csv"
 
 
 # adding objects
@@ -13,7 +13,7 @@ with open(file_path, 'rb') as f:
         Body=data,
         Bucket=bucket_name,
         # S3 object name
-        Key='data\Math_Test_Results_2013-2023_20240512.csv'  
+        Key='data/Math_Test_Results_2013-2023_20240512.csv'  
     )
 
 print("Uploaded CSV file:", response)
