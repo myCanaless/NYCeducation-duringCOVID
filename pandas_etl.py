@@ -41,12 +41,12 @@ for file in response['Contents']:
             excel_file = BytesIO(excel_data)    
             excel = pd.ExcelFile(excel_file)
                 
-            for sheet_name in excel.sheet_names:
-                df = pd.read_excel(excel,sheet_name=sheet_name,engine='openpyxl')
-                csv_file = f'{sheet_name}.csv'
-                df = df.to_csv(csv_file,index=False)
+            # for sheet_name in excel.sheet_names:
+                # df = pd.read_excel(excel,sheet_name=sheet_name,engine='openpyxl')
+                # csv_file = f'{sheet_name}.csv'
+                # df = df.to_csv(csv_file,index=False)
                 
-                concat_list.append(df)
+                # concat_list.append(df)
             #print(concat_list)
         
 
@@ -58,17 +58,6 @@ hpot_data = pd.concat(concat_list)
 #print(hpot_data.columns)
 # verify shape
 #print(hpot_data.shape)
-####
-
-# print("\n Single object retrieval \n")
-####
-# NOTE: Alternatively, we can also load one object at a time
-# name = "tkh-nyc-education"
-# file = "data/"
-# single_object = s3.get_object(Bucket=name, Key=file)
-# single_df = pd.read_csv(single_object['Body'])
-# print(single_df.head())
-####
 
 # Lastly, after we are done performing our transformations, we load this data back into our bucket
 
@@ -76,7 +65,7 @@ hpot_data = pd.concat(concat_list)
 buffer = StringIO()
 
 # load our dataframe into this placeholder
-# single_df.to_csv(buffer, index=False)
+hpot_data.to_csv(buffer, index=False)
 
 # push this buffer to our s3 data store
 s3.put_object(
