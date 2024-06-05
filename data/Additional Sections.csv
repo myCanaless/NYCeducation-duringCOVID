@@ -1,0 +1,14 @@
+Section,Description,Response
+1a,"The total number of STH, defined by U.S. code and NYC Local Law 73 as students experiencing housing instability",87170.0
+1b,The total number of STH residing in shelters operated by the Department of Homeless Services (DHS),17171.0
+1c,The total number of STH residing in non-DHS shelters,9779.0
+1d,The total number of STH who are doubled-up (sharing the housing of others),55964.0
+1e,The total number of STH who residing in a hotel/motel or other temporary housing,4256.0
+2,The number of students residing in shelters operated by DHS who remain enrolled in a school in their borough of origin,16133.0
+3,The total number of students residing in shelters operated by DHS who have transferred to a different school,1859.0
+4,The total number of STH eligible to receive MetroCards,79147.0
+5,The total number of STH who were assigned busing,8023.0
+6,The percentage of STH citywide,0.08785810467582103
+7,The attendance rate of STH,0.8388177700017514
+8,"The retention rate of STH (rate of students remaining in same grade level the following year, grades K-8 only)",0.012610634191788114
+9,The dropout rate of STH (2019-20),0.12455428501168081

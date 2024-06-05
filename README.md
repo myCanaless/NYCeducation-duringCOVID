@@ -32,6 +32,99 @@ Recommendations:
 
 
 
+# Datasets
+Datasets were provided by
+[NYC OpenData](https://opendata.cityofnewyork.us/data/)
+
+ - 2017 - 2022 Demographic Snapshot 
+ - 2018 - 2021 Daily Attendance by School
+ - 2021 Students In Temporary Housing
+ - English Language Arts Test Results 2013-2023 **
+
+** Important notes from dataset 
+
+ "Due to COVID-19 pandemic, the exams were not administered in 2020" and were optional for students to take in 2021. In 2018, NYSED rescaled the Math and ELA exams to account for a change in test administration from 3 days to 2 days. Results from 2018 - 2022 can be compared to each other but cannot be compared to prior years (or to 2023). Exams were cancelled in 2020 and voluntary in 2021. 21% of eligible students took the exam in 2021, no data for those years is included. 
+
+# What to know
+What is a DBN (District Borough Number)?
+
+The DBN or District Borough Number is the combination of the District Number, the letter code for the borough, and the number of the school. Every school in NYC Public Schools (NYCPS) has a District Borough Number.
+
+![DBN](docs/NYC_DBN.jpg)
+
+What is Economic Need Index?
+
+The Economic Need Index (ENI) estimates the percentage of students facing economic hardship.
+The student Economic Need Index (ENI) is a metric calculated used by the Department of Education to investigate and incorporate economic diversity in NYC's schools.
+
+### Learning Standards 
+
+- Level 1  = Not Meeting Learning Standards
+- 'Pct Level 1' - Percentage of students who scored in Level 1 range  
+- Level 2 = Partially Meeting Learning Standards
+- 'Pct Level 2' - Percentage of students who scored in Level 2 range
+- Level 3 = Meeting Learning Standards
+- 'Pct Level 3' - Percentage of students who scored in Level 3 range 
+- Level 4 = Meeting Learning Standards with Distinction  
+- 'Pct Level 4' - Percentage of students who scored in Level 4 range
+
+# Issues / Notes
+Results from 2018 to 2022 can be compared to each other but cannot be compared to prior years  (or to 2023) due to a change in test adiministration. 
+
+# Analysis
+DOE Students in Temporarily Housing
+
+![Students in Temporarily Housing](<docs/Percentage of DOE Temporarily Housed Students Over the Years.png>)
+
+
+English Language Arts Achievement Levels (Citywide)
+
+
+![ELA Citywide](<docs/Percentage of Students by Achievement Levels Over Years (Citywide).png>)
+
+Math Achievement Levels (Citywide)
+
+![Math Citywide](<docs/CityWide Math Levels.png>)
+
+# School with Highest Economic Need Index - 12X211
+
+Students that were Present:
+
+![Present](<docs/12X211 Present.png>)
+
+Enrollment: 
+
+![Enrollment](<docs/12X211 Enrolled.png>)
+
+## ELA Results between 2013 - 2023
+Achievement Levels at 12X211: 
+
+![Achievement Levels at 12X211](<docs/Percentage of Students by Achievement Levels Over Years at 12X211.png>)
+
+## Math Results between 2013 - 2023
+
+![12X211 Math](<docs/12X211 Math.png>)
+
+# School with Lowest Economic Need  - 02M183
+
+Students that were Present:
+
+![02M183 - Present](<docs/02M183 - Present.png>)
+
+Enrollment:
+
+![02M183 - Enrolled](<docs/02M183 - Enrolled.png>)
+
+## ELA Results between 2013 - 2023
+Achievement Levels at 02M183: 
+
+![Achievement Levels at 02M183](<docs/Percentage of Students by Achievement Levels Over Years at DBN 02M183.png>)
+
+## Math Results between 2013 - 2023
+
+![02M183 Math](<docs/02M183 Math.png>)
+
+
 # Goal
 Analyze an NYC dataset of student data to analyze student performance. Some analytical questions/goals you may want to consider include:
 - How has test performance changed after Covid? Does this vary across demographics?
