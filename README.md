@@ -61,6 +61,18 @@ Math Achievement Levels (Citywide)
 
 ![Math Citywide](<docs/CityWide Math Levels.png>)
 
+Citywide Attendance Rate:
+
+![Citywide Attendance Rate](<docs/Heatmap of Attendance Rate by District and Month (2018 - 2021).png>) 
+
+ELA Percentage of level 1 by District:
+
+![ELA Percentage of level 1 by District](<docs/ELA Percentage of Level 1 by District and Year.png>)
+
+ELA Percentage of level 4 by District:
+
+![ELA Percentage of level 4 by District](<docs/ELA Percentage of Level 4 by District and Year.png>)
+
 # School with Highest Economic Need Index - 12X211
 
 Students that were Present:
