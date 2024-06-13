@@ -65,6 +65,9 @@ Citywide Attendance Rate:
 
 ![Citywide Attendance Rate](<docs/Heatmap of Attendance Rate by District and Month (2018 - 2021).png>) 
 
+Monthly Attendance Rate by Borough:
+![Monthly Attendance Rate by Borough](<docs/Monthly Attendance Rate by Borough (2018 - 2021).png>)
+
 ELA Percentage of level 1 by District:
 
 ![ELA Percentage of level 1 by District](<docs/ELA Percentage of Level 1 by District and Year.png>)
