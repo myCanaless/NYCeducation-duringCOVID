@@ -1,4 +1,0 @@
-Datasets
-https://data.cityofnewyork.us/Education/2016-17-2020-21-School-End-of-Year-Attendance-and-/gqq2-hgxd/about_data - 2016-17 - 2020-21 School End-of-Year Attendance and Chronic Absenteeism Data
-https://data.cityofnewyork.us/Health/COVID-19-Daily-Counts-of-Cases-Hospitalizations-an/rc75-m7u3/about_data - COVID-19 Daily Counts of Cases, Hospitalizations, and Deaths
-
