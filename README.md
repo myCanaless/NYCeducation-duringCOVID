@@ -14,7 +14,7 @@ Datasets were provided by
  - 2017 - 2022 Demographic Snapshot 
  - 2018 - 2021 Daily Attendance by School
  - 2021 Students In Temporary Housing
- - English Language Arts Test Results 2013-2023 **
+ - Math and English Language Arts Test Results 2013-2023 **
 
 ** Important notes from dataset 
 
@@ -47,10 +47,6 @@ The student Economic Need Index (ENI) is a metric calculated used by the Departm
 Results from 2018 to 2022 can be compared to each other but cannot be compared to prior years  (or to 2023) due to a change in test adiministration. 
 
 # Analysis
-DOE Students in Temporarily Housing
-
-![Students in Temporarily Housing](<docs/Percentage of DOE Temporarily Housed Students Over the Years.png>)
-
 
 English Language Arts Achievement Levels (Citywide)
 
@@ -66,53 +62,28 @@ Citywide Attendance Rate:
 ![Citywide Attendance Rate](<docs/Heatmap of Attendance Rate by District and Month (2018 - 2021).png>) 
 
 Monthly Attendance Rate by Borough:
+
 ![Monthly Attendance Rate by Borough](<docs/Monthly Attendance Rate by Borough (2018 - 2021).png>)
 
-ELA Percentage of level 1 by District:
+## Geographic Subdivision Analysis
 
-![ELA Percentage of level 1 by District](<docs/ELA Percentage of Level 1 by District and Year.png>)
+ELA Performance Levels Across Borough:
 
-ELA Percentage of level 4 by District:
+![ELA Performance Levels Across Borough](<docs/ELA Performance Levels Across Boroughs.png>)
 
-![ELA Percentage of level 4 by District](<docs/ELA Percentage of Level 4 by District and Year.png>)
+Math Performance Levels Across Borough:
 
-# School with Highest Economic Need Index - 12X211
+![Math Performance Levels Across Borough](<docs/Math Performance Levels Across Boroughs.png>)
 
-Students that were Present:
+## Demographics Analysis
 
-![Present](<docs/12X211 Present.png>)
+ELA Performance Levels:
 
-Enrollment: 
+![ELA Performance Levels](<docs/ELA Performance Levels.png>)
 
-![Enrollment](<docs/12X211 Enrolled.png>)
+Math Performance Levels:
 
-## ELA Results between 2013 - 2023
-Achievement Levels at 12X211: 
-
-![Achievement Levels at 12X211](<docs/Percentage of Students by Achievement Levels Over Years at 12X211.png>)
-
-## Math Results between 2013 - 2023
-
-![12X211 Math](<docs/12X211 Math.png>)
-
-# School with Lowest Economic Need  - 02M183
-
-Students that were Present:
-
-![02M183 - Present](<docs/02M183 - Present.png>)
-
-Enrollment:
-
-![02M183 - Enrolled](<docs/02M183 - Enrolled.png>)
-
-## ELA Results between 2013 - 2023
-Achievement Levels at 02M183: 
-
-![Achievement Levels at 02M183](<docs/Percentage of Students by Achievement Levels Over Years at DBN 02M183.png>)
-
-## Math Results between 2013 - 2023
-
-![02M183 Math](<docs/02M183 Math.png>)
+![Math Performance Levels](<docs/Math Performance Levels.png>)
 
 
 # Goal
