@@ -44,12 +44,11 @@ The student Economic Need Index (ENI) is a metric calculated used by the Departm
 - 'Pct Level 4' - Percentage of students who scored in Level 4 range
 
 # Issues / Notes
-Results from 2018 to 2022 can be compared to each other but cannot be compared to prior years  (or to 2023) due to a change in test adiministration. 
+Results from 2018 to 2022 can be compared to each other but cannot be compared to prior years  (or to 2023) due to a change in test administration. 
 
 # Analysis
 
 English Language Arts Achievement Levels (Citywide)
-
 
 ![ELA Citywide](<docs/Percentage of Students by Achievement Levels Over Years (Citywide).png>)
 
@@ -84,6 +83,12 @@ ELA Performance Levels:
 Math Performance Levels:
 
 ![Math Performance Levels](<docs/Math Performance Levels.png>)
+
+Economic Need Index of Students with Performance Levels 1 and 4: 
+
+![Economic Need Index](<docs/From Tableau/Economic Need Index.jpg>)
+
+
 
 
 # Goal
