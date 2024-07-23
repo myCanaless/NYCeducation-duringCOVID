@@ -46,6 +46,20 @@ The student Economic Need Index (ENI) is a metric calculated used by the Departm
 # Issues / Notes
 Results from 2018 to 2022 can be compared to each other but cannot be compared to prior years  (or to 2023) due to a change in test administration. 
 
+# Tableau Dashboard 
+
+Attendance Rate 
+
+![Attendance Rate](<docs/From Tableau/Attendance Rate.gif>)
+
+Poverty Rate 
+
+![Poverty Rate](<docs/From Tableau/Poverty Rate.gif>)
+
+Test Results 
+
+![Test Results](<docs/From Tableau/Test Results.gif>)
+
 # Analysis
 
 English Language Arts Achievement Levels (Citywide)
