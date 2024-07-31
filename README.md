@@ -50,15 +50,15 @@ Results from 2018 to 2022 can be compared to each other but cannot be compared t
 
 Attendance Rate 
 
-![Attendance Rate](<docs/From Tableau/Attendance Rate.gif>)
+https://github.com/user-attachments/assets/c5756811-0d03-4643-96c9-fbf7c4af905f
 
 Poverty Rate 
 
-![Poverty Rate](<docs/From Tableau/Poverty Rate.gif>)
+https://github.com/user-attachments/assets/7bf889e2-8e40-4f16-8042-59740df6dc23
 
 Test Results 
 
-![Test Results](<docs/From Tableau/Test Results.gif>)
+https://github.com/user-attachments/assets/845e75b6-3145-4d52-992a-437d7efeec23
 
 # Analysis
 
